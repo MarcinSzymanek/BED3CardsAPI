@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tPanzGTCkiC72LbwtFGrmmg6gVdfXi8xzQphnUEHJ1w=",
+  "Source": "HearthstoneCardsAPI",
+  "BasePath": "_content/HearthstoneCardsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
